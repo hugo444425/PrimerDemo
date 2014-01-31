@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejemplo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_search_query">ShowSearchQueryActivity</string>
+    <string name="title_activity_to_do_list">ToDoListActivity</string>
+    <string name="btn_open_activity">Abrir otra actividad</string>
+    
+    
+    <string name="btn_search">Buscar</string>
+    <string name="btn_list">Listado</string>
+    <string name="btn_add">Agregar</string>
+    <string name="txt_checkbox">¿te gusta Android?</string>
+    <string name="txt_radio_0">Primero</string>
+    <string name="txt_radio_1">Segundo</string>
+    <string name="txt_radio_2">Tercero</string>
+    
+    <string name="title_activity_email_list">EmailListActivity</string>
+
+</resources>
